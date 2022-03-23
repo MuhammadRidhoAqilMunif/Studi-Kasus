@@ -27,7 +27,7 @@ int main(){
 	cout << "                     STRUK PEMBELIAN         " << endl;
 	cout << "==========================================================" << endl;
 	cout << "Qty" << "   Menu   " << "    Harga   " << "   Jumlah Harga   " << endl;
-	cout << jmlGor << "   Ayam Goreng   " << hargaGor << "\t" << totGor << endl;
+	cout << jmlGor << "   Ayam Goreng   " << hargaGor << "\t\t" << totGor << endl;
 	cout << jmlBak << "   Ayam Bakar   " << hargaBak << "\t" << totBak << endl;
 	total = totGor + totBak;
 

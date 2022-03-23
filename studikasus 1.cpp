@@ -13,11 +13,11 @@ int main(){
 	cout << "Ayam Bakar" << endl;
 	cout << "Harga = Rp. 21000" << endl;
 	cout << "------------------------------" << endl;
-	cout << "Jumlah ayam goreng = ";
+	cout << "Jumlah Ayam Goreng = ";
 	cin >> jmlGor;
 	totGor = 17000 * jmlGor;
 	cout << "Harga = " << totGor << endl;
-	cout << "Jumlah ayam bakar = ";
+	cout << "Jumlah Ayam Bakar = ";
 	cin >> jmlBak;
 	totBak = 21000 * jmlBak;
 	cout << "Harga = " << totBak << endl;
